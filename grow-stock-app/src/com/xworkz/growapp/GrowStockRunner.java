@@ -8,12 +8,8 @@ import com.xworkz.growapp.dto.GrowStockDto;
     public static void main(String[] args) {
         GrowStockDao growStockDao = new GrowStockDao();
 
-        GrowStockDto growStockDto = new GrowStockDto();
-        growStockDto.stockName = "Ey";
-        growStockDto.stockRefId = 2345678;
-        growStockDto.stockPrice = 250.00;
-        growStockDto.noOfStocks = 5;
-        growStockDto.date = "05/07/2001";
+        GrowStockDto growStockDto = new GrowStockDto(2345678,"Ey",250.0,"05/07/2002",5);
+
         growStockDao.addGrowStock(growStockDto);
         growStockDao.getGrowStockDetails();
 

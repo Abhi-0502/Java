@@ -19,15 +19,16 @@ public class NewsPaperDao {
             }
             else
                 System.out.println("please enter your valid newspaper companyname");
-            if(dto.noOfPages > 0){
+-            if(dto.noOfPages > 0){
                 this.dto = dto;
                 isnoOfPages= true;
             }
-            else
+            else{
                 System.out.println("plase enter your valid stock noOfPages");
-            if(dto.language != null){
+            if(dto.language != null) {
                 this.dto = dto;
                 iscompanyName = true;
+            }
 
             }
             else

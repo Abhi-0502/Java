@@ -14,32 +14,36 @@ public class GrowStockDao {
        boolean isStockRefId = false;
        boolean isDate = false;
        if(dto != null){
-           if(dto.stockName != null) {
+           if(dto.getstockName() != null ) {
                this.dto = dto;
                isStockName = true;
            }
            else
                System.out.println("please enter your valid stock name");
-           if(dto.stockRefId > 0){
+           if(dto.getStockRefId() > 0){
+               System.out.println(dto.getStockRefId() > 0);
                this.dto = dto;
                isStockName = true;
            }
            else
                System.out.println("plase enter your valid stock id");
-           if(dto.stockPrice > 0.0){
+
+           if(dto.getstockPrice() > 0.0){
+               System.out.println(dto.getstockPrice()>0.0);
                this.dto = dto;
                isStockName = true;
 
            }
            else
                System.out.println("please enter your valid price");
-           if(dto.noOfStocks > 0.0){
+           if(dto.getnoOfStocks() > 0.0){
+               System.out.println(dto.getnoOfStocks() > 0.0);
                this.dto = dto;
                isStockName = true;
            }
            else
                System.out.println("please enter your valid noOfStocks");
-           if(dto.date != null){
+           if(dto.getdate() != null){
                this.dto = dto;
                isDate = true;
            }
@@ -59,9 +63,10 @@ public class GrowStockDao {
 
 
     public void getGrowStockDetails() {
-        System.out.println("stock ref id"+ dto.stockName);
-        System.out.println("stock Name"+ dto.stockName);
-        System.out.println("stock price"+ dto.stockPrice);
-        System.out.println("stock date"+ dto.date);
+        System.out.println("stock ref id"+ dto.getStockRefId());
+        System.out.println("stock Name"+ dto.getstockName());
+        System.out.println("stock price"+ dto.getstockPrice());
+        System.out.println("stock date"+ dto.getdate());
     }
+    
 }
