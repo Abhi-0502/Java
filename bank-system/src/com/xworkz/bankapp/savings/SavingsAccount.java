@@ -7,14 +7,15 @@ public class SavingsAccount extends BankAccount {
 
     double interest = 0.7;
 
-    public SavingsAccount(){
+    public SavingsAccount(){//explicit  not args
 
     }
 
-//   public SavingsAccount(double minbalance) {
-//        setBalance(minbalance);
 
-//    }
+   public SavingsAccount(double minbalance) {///parameterized constructor
+        setBalance(minbalance);
+
+    }
 
 public void  rateOfInterest(){
         double interestAmount = getBalance()*interest/100;

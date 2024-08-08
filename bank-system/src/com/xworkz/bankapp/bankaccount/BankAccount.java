@@ -9,9 +9,11 @@ public class BankAccount {
         this.balance = balance;
     }
 
-    public double getBalance(){
+    public double getBalance() {
         return balance;
     }
+
+
 
     public void deposit(double amount){
         System.out.println("deposit started");
@@ -24,11 +26,23 @@ public class BankAccount {
         System.out.println("deposit ended");
     }
 
-    public void withdraw(double amount){
-        System.out.println("withdraw started");
-        if(amount <= balance)
-            balance = balance - amount;
-        else System.out.println("Insufficient Funds");
-        System.out.println("withdraw ended");
+
+
+public void withdraw(double amount){
+    System.out.println("withdraw started");
+    if(amount <= balance)
+        balance = balance - amount;
+    else System.out.println("Insufficient Funds");
+    System.out.println("withdraw ended");
+}
+            //transfer
+    // BankAccount account = new SavingAccount;
+    public void transfer(BankAccount account , double amount){
+        System.out.println("transfer started");
+        this.withdraw(amount);
+        System.out.println("Amount is withdraw from account");
+        account.deposit(amount);
+        System.out.println("amount sent sucessfully");
+        System.out.println("transfer ended");
     }
 }

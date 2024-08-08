@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="engineer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/inheritence/engineer.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
