@@ -1,0 +1,85 @@
+1.Polymorphism :  the ability of objects to take on many forms In other words, it allows different objects to respond to the same message or method call in multiple ways.
+ two types of polymorphism
+ *Compile- time polymorphism
+ *Runtime polymorphism
+
+Compile-Time Polymorphism : Compile-time polymorphism is also called static polymorphism. 
+*It allows users to define multiple methods with the same name but different parameters. 
+*It is beneficial because it helps write cleaner and more efficient code.
+example : Method overloading - It called to as method which was decide at compile time.
+
+Runtime Polymorphism : Runtime polymorphism is also known as dynamic method dispatch. 
+*This process handles the call to an overridden method dynamically during runtime.
+example: Method overriding - It called to as method which was decide at run time
+
+2.Constructor Chaining :Constructor chaining is the process of calling one constructor from another constructor with respect to current object. 
+Within same class: It can be done using this() keyword for constructors in the same class
+From base class: by using super() keyword to call the constructor from the base class.
+*Parameterized constructor 
+*Default Constructor
+
+Example:
+   temp(int x ,int Y)
+{
+//this invoke the parameterized constructor
+this(5)
+System.out.println(x*Y);
+}	
+
+ temp(int x)
+{
+//this invoke the default constructor
+this(5)
+System.out.println(x);
+}
+
+temp()
+{
+System.out.println("default");
+}
+
+3.Inheritance :Inheritance is a mechanism in which one object acquires all the properties and behaviors of a parent object. 
+It is an important part of OOPs (Object Oriented programming system).
+
+*Class: It is a template or blueprint from which objects are created.
+
+*Sub Class/Child Class: Subclass is a class which inherits the other class. It is also called a derived class, extended class, or child class.
+
+*Super Class/Parent Class: Superclass is the class from where a subclass inherits the features. It is also called a base class or a parent class.
+
+*Reusability: Reusability to reuse the fields and methods of the existing class when you create a new class. You can use the same fields and methods already defined in the previous class.
+  
+example:
+lass Employee{  
+ float salary=40000;  
+}  
+ public class employe extends Employee{  
+ int bonus=10000;  
+ public static void main(String args[]){  
+employe E=new employe();  
+   System.out.println("employe salary is:"+e.salary);  
+   System.out.println("Bonus of employe is:"+e.bonus);  
+
+}
+}
+
+4.Encapuslation :Encapsulation: The meaning of Encapsulation is to make sure that "sensitive" data is hidden from users. 
+To achieve this, you must:
+•declare class variables/attributes as private
+•Provide public get and set methods to access and update the value of a private variable.
+
+example:
+class Student{
+ 
+       public class Student{
+   
+       private String name;  
+//getter method for name  
+      public String getName(){  
+      return name;  
+}  
+//setter method for name
+  public void setName(String name){  
+   this.name=name  
+}  
+}  
