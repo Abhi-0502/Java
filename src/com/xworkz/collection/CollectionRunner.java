@@ -22,7 +22,7 @@ public class CollectionRunner {
             if(integer%2 ==0)
                 System.out.println(integer);
         }
-      //  integerwithoddNumber
+      //  integerwithoddNumber (i % 2 !=0)= true or false
        //collection.stream().filter(i ->(i % 2 !=0)).forEach(System.out::println);
 
         List<Integer> integerwithoddNumber = collection.stream().filter(i ->(i % 2 != 0)).collect(Collectors.toList());
