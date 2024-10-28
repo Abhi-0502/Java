@@ -21,7 +21,7 @@ public class ProductDtoRunner extends Object {
         ProductDto dto4 = new ProductDto(4,"Bulb",100,"electronics",4.7);
         ProductDto dto5 = new ProductDto(5,"Bag",200.0,"carry bag",4.0);
 
-        collection.add(dto1);
+        collection.add(dto1);  
         collection.add(dto2);
         collection.add(dto3);
         collection.add(dto4);
