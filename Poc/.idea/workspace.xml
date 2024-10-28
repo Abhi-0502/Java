@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24fb22bf-1dc3-4c52-8de0-b7a5bb4b164b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/lombok_1_18_34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/com/xworkz/demo/DemoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonew/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonew/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonew/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonew/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonew/Demonew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demonew/src/DemoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pocDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon-product/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon-product/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon-product/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon-product/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon-product/amazon-product.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon-product/src/com/xworkz/amazonapp/AmazonRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon-product/src/com/xworkz/amazonapp/amazon/Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon-product/src/com/xworkz/amazonapp/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon-product/src/com/xworkz/amazonapp/product/details/ProductDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../asian-paints/asian-paints.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-system/src/com/xworkz/chatapp/BookStoreRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-system/src/com/xworkz/chatapp/bookstore/BookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-system/src/com/xworkz/chatapp/bookstore/impl/BookstoreImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chat-system/src/com/xworkz/chatapp/chat/Chats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../engineer-system/engineer-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/src/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hospital/hospital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insurence-system/insurence-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lightapp/lightapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/SwitchTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/cflbulb/CflBulb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/iswitch/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/BeautyParlour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/ChaiPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/ShopRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/TeaCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/tubelight/TubeLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lossi-shop/lossi-shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../messho-items/messho-items.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie/movie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie/src/com/xworkz/movieapp/bookmyshow/BookmyShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie/src/com/xworkz/movieapp/cinematicket/CinemaTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie/src/com/xworkz/movieapp/movieshow/MoviRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie/src/com/xworkz/movieapp/movieshow/MovieShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-user/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-user/lib/lombok-1.18.34.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/PassportRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/passport/Passport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/passport/impl/PassportuserImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/passportuser/PassportUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient-system/patient-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient-system/src/com/xworkz/patapp/HospitalRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient-system/src/com/xworkz/patapp/hospital/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient-system/src/com/xworkz/patapp/hospital/impl/HospitalImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient-system/src/com/xworkz/patapp/patient/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizza/pizza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redbus/redbus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/TravelRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/agency/TravelAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/contract/RedbusContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/srs/SrsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/vrl/VrlImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../showapp/showapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/BookMyShowRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/amazon/Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/bookmyshow/BookMyShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/cinepolis/Cinepolis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/paytm/Paytm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/pvr/Pvr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/theater/Theater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../super-market/super-market.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tea-company/tea-company.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xworkz/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Xworkz/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xworkz/src/com/xworkz/Xworkz/XworkzRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xworkz/src/com/xworkz/Xworkz/dao/XworkzDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xworkz/src/com/xworkz/Xworkz/dto/XworkzDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asian-paints/src/com/xworkz/asianpaints/asianpaintscolor/AsianPaintsColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../asian-paints/src/com/xworkz/asianpaints/asianpaintscolor/AsianPaintsColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asian-paints/src/com/xworkz/asianpaints/asianpaintscolor/AsianPaintsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../asian-paints/src/com/xworkz/asianpaints/asianpaintscolor/AsianPaintsRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/EngineerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/EngineerRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/cs/CsEngineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/cs/CsEngineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/ec/EcEngineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/ec/EcEngineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/engineer/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/engineer/Engineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam-management-system/src/com/xworkz/examapp/ExamRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam-management-system/src/com/xworkz/examapp/ExamRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam-management-system/src/com/xworkz/examapp/exam/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam-management-system/src/com/xworkz/examapp/exam/Exam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam-management-system/src/com/xworkz/examapp/supplementary/SupplementaryExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam-management-system/src/com/xworkz/examapp/supplementary/SupplementaryExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/AppoloHospital/appolohospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/AppoloHospital/appolohospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/Hospital/hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/Hospital/hospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/PatientRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/PatientRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/VaidehiHospital/vaidehihospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/VaidehiHospital/vaidehihospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/patient/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/patient/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/InsurenceRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/InsurenceRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/bike/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/bike/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/health/Health.java" beforeDir="false" afterPath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/health/Health.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/insurence/Insurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/insurence/Insurence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/life/Life.java" beforeDir="false" afterPath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/life/Life.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lossi-shop/src/com/xworkz/lossishop/lossi/Lossi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lossi-shop/src/com/xworkz/lossishop/lossi/Lossi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lossi-shop/src/com/xworkz/lossishop/lossi/LossiRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lossi-shop/src/com/xworkz/lossishop/lossi/LossiRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/MesshoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/MesshoRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/orderitem/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/orderitem/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/Address/address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/Country/country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/Patient/patient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/PatientRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/State/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/Street/Street.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/area/Area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/city/City.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza/src/com/xworkz/pizza/pizzaapp/PizzaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza/src/com/xworkz/pizza/pizzaapp/PizzaApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza/src/com/xworkz/pizza/pizzaapp/PizzaRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza/src/com/xworkz/pizza/pizzaapp/PizzaRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../super-market/src/com/xworkz/supermarketapp/SupermarketRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../super-market/src/com/xworkz/supermarketapp/SupermarketRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../super-market/src/com/xworkz/supermarketapp/supermarket/Supermarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../super-market/src/com/xworkz/supermarketapp/supermarket/Supermarket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../super-market/src/com/xworkz/supermarketapp/worker/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../super-market/src/com/xworkz/supermarketapp/worker/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tea-company/src/com/xworkz/teaapp/chaiWala/ChaiRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tea-company/src/com/xworkz/teaapp/chaiWala/ChaiRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tea-company/src/com/xworkz/teaapp/chaiWala/ChaiWala.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tea-company/src/com/xworkz/teaapp/chaiWala/ChaiWala.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Abhi-0502"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Abhi-0502/Java.git",
+    "accountId": "1fd883a2-e2f8-4528-a9fa-e1dff7fba22b"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2mAUtuukWqyyWdvNtsmVY9W2CdF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24fb22bf-1dc3-4c52-8de0-b7a5bb4b164b" name="Changes" comment="" />
+      <created>1726519094312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726519094312</updated>
+    </task>
+    <servers />
+  </component>
+</project>
