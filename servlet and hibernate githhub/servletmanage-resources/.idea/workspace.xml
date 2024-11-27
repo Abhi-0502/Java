@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c373e78-7ad4-40f6-b619-5bfee7ea6839" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../manage-resources/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/java/com.xworkz.userapp/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/OIP.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/R.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/abhi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/butterfly.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/nature.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/nature1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/phone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/pngtree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/rose.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/shiva.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-resources/src/main/webapp/t.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/com/xworkz/demo/DemoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/src/com/xworkz/demo/DemoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demonew/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demonew/src/DemoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demonew/src/DemoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Poc/src/pocDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Poc/src/pocDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Xworkz/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Xworkz/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon-pc/src/com/xworkz/amazonpc/CustomerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon-pc/src/com/xworkz/amazonpc/CustomerRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon-pc/src/com/xworkz/amazonpc/customer/impl/CustomerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon-pc/src/com/xworkz/amazonpc/customer/impl/CustomerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon-pc/src/com/xworkz/amazonpc/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon-pc/src/com/xworkz/amazonpc/product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon-pc/src/com/xworkz/amazonpc/product/ProductDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon-pc/src/com/xworkz/amazonpc/product/ProductDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon-product/amazon-product.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon-product/amazon-product.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon-product/src/com/xworkz/amazonapp/AmazonRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon-product/src/com/xworkz/amazonapp/AmazonRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon-product/src/com/xworkz/amazonapp/amazon/Amazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon-product/src/com/xworkz/amazonapp/amazon/Amazon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon-product/src/com/xworkz/amazonapp/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon-product/src/com/xworkz/amazonapp/product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon-product/src/com/xworkz/amazonapp/product/details/ProductDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon-product/src/com/xworkz/amazonapp/product/details/ProductDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asian-paints/src/com/xworkz/asianpaints/asianpaintscolor/AsianPaintsColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../asian-paints/src/com/xworkz/asianpaints/asianpaintscolor/AsianPaintsColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asian-paints/src/com/xworkz/asianpaints/asianpaintscolor/AsianPaintsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../asian-paints/src/com/xworkz/asianpaints/asianpaintscolor/AsianPaintsRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-system/src/com/xworkz/chatapp/BookStoreRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-system/src/com/xworkz/chatapp/BookStoreRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-system/src/com/xworkz/chatapp/bookstore/BookStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-system/src/com/xworkz/chatapp/bookstore/BookStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-system/src/com/xworkz/chatapp/bookstore/impl/BookstoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-system/src/com/xworkz/chatapp/bookstore/impl/BookstoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-system/src/com/xworkz/chatapp/chat/Chats.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chat-system/src/com/xworkz/chatapp/chat/Chats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/EngineerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/EngineerRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/cs/CsEngineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/cs/CsEngineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/ec/EcEngineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/ec/EcEngineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/engineer/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../engineer-system/src/com/xworkz/engapp/engineer/Engineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/ExelDataRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/ExelDataRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentFetch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentFetch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentPreparedDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentPreparedDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentPreparedFetch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentPreparedFetch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentPreparedInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentPreparedInsert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentPreparedUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentPreparedUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/entertainment/EntertainmentUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/exception/MovieIdNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/exception/MovieIdNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/jdbc/EntertainmentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/jdbc/EntertainmentRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/jdbc/dao/EntertainmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/jdbc/dao/EntertainmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/jdbc/dao/EntertainmentDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/jdbc/dao/EntertainmentDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/jdbc/dto/MovieDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/jdbc/dto/MovieDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/jdbcservice/EntertainmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/jdbcservice/EntertainmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/jdbcservice/EntertainmentServiceimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../entertainment/src/main/java/com/xworkz/jdbcservice/EntertainmentServiceimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam-management-system/src/com/xworkz/examapp/ExamRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam-management-system/src/com/xworkz/examapp/ExamRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam-management-system/src/com/xworkz/examapp/exam/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam-management-system/src/com/xworkz/examapp/exam/Exam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam-management-system/src/com/xworkz/examapp/supplementary/SupplementaryExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam-management-system/src/com/xworkz/examapp/supplementary/SupplementaryExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/src/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exam/src/Exam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibaernate1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibaernate1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibaernate1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibaernate1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibaernate1/src/test/java/com/xworkz/product/dao/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibaernate1/src/test/java/com/xworkz/product/dao/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibaernate1/src/test/java/com/xworkz/product/dao/ProductImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibaernate1/src/test/java/com/xworkz/product/dao/ProductImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibaernate1/src/test/java/com/xworkz/product/dtoentity/ProductDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibaernate1/src/test/java/com/xworkz/product/dtoentity/ProductDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibaernate1/src/test/java/com/xworkz/product/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibaernate1/src/test/java/com/xworkz/product/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate/src/main/java/com/xworkz/productapp/ProductRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate/src/main/java/com/xworkz/productapp/ProductRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate/src/main/java/com/xworkz/productapp/dao/EcomerceDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate/src/main/java/com/xworkz/productapp/dao/EcomerceDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate/src/main/java/com/xworkz/productapp/dao/EcommerceDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate/src/main/java/com/xworkz/productapp/dao/EcommerceDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate/src/main/java/com/xworkz/productapp/dto/ProductDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate/src/main/java/com/xworkz/productapp/dto/ProductDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate/src/main/java/com/xworkz/productapp/service/EcommerceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate/src/main/java/com/xworkz/productapp/service/EcommerceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate/src/main/java/com/xworkz/productapp/service/ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate/src/main/java/com/xworkz/productapp/service/ServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hibernate/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hibernate/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/AppoloHospital/appolohospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/AppoloHospital/appolohospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/Hospital/hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/Hospital/hospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/PatientRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/PatientRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/VaidehiHospital/vaidehihospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/VaidehiHospital/vaidehihospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/patient/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital/src/com/xworkz/hospital/patient/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/InsurenceRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/InsurenceRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/bike/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/bike/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/health/Health.java" beforeDir="false" afterPath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/health/Health.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/insurence/Insurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/insurence/Insurence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/life/Life.java" beforeDir="false" afterPath="$PROJECT_DIR$/../insurence-system/src/com/xworkz/insurenceapp/life/Life.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/SwitchTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/SwitchTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/cflbulb/CflBulb.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/cflbulb/CflBulb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/iswitch/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/iswitch/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/BeautyParlour.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/BeautyParlour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/ChaiPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/ChaiPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/ShopRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/ShopRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/TeaCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/shop/TeaCompany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/tubelight/TubeLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lightapp/src/com/xworkz/lightapp/tubelight/TubeLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lossi-shop/src/com/xworkz/lossishop/lossi/Lossi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lossi-shop/src/com/xworkz/lossishop/lossi/Lossi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lossi-shop/src/com/xworkz/lossishop/lossi/LossiRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lossi-shop/src/com/xworkz/lossishop/lossi/LossiRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/MesshoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/MesshoRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/orderitem/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/orderitem/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../messho-items/src/com/xworkz/messhoitem/product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie/src/com/xworkz/movieapp/bookmyshow/BookmyShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie/src/com/xworkz/movieapp/bookmyshow/BookmyShow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie/src/com/xworkz/movieapp/cinematicket/CinemaTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie/src/com/xworkz/movieapp/cinematicket/CinemaTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie/src/com/xworkz/movieapp/movieshow/MoviRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie/src/com/xworkz/movieapp/movieshow/MoviRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie/src/com/xworkz/movieapp/movieshow/MovieShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie/src/com/xworkz/movieapp/movieshow/MovieShow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies-collection/src/com/xworkz/movie/MovieC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies-collection/src/com/xworkz/movie/MovieC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies-collection/src/com/xworkz/movie/MovieDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies-collection/src/com/xworkz/movie/MovieDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies-collection/src/com/xworkz/movie/MovieDtoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies-collection/src/com/xworkz/movie/MovieDtoRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies-details/src/main/java/com/xworkz/movie/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies-details/src/main/java/com/xworkz/movie/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies-details/src/main/java/com/xworkz/movie/MovieDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies-details/src/main/java/com/xworkz/movie/MovieDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movies-details/src/main/java/com/xworkz/movie/MovieUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movies-details/src/main/java/com/xworkz/movie/MovieUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/Newspaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/Newspaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/NewspaperRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/NewspaperRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/Service/InterfaceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/Service/InterfaceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/Service/NewspaperService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/Service/NewspaperService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/dao/JDBCTEST.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/dao/JDBCTEST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/dao/NewspaperDaoimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/dao/NewspaperDaoimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/dao/NewspaperInterfaceDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/dao/NewspaperInterfaceDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/dto/NewspaperDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/dto/NewspaperDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/exception/EditorNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newspaper-system/src/main/java/com/xworkz/newspaper/exception/EditorNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/PassportIdNotFound.java" beforeDir="false" afterPath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/PassportIdNotFound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/PassportRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/PassportRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/passport/Passport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/passport/Passport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/passport/impl/PassportuserImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/passport/impl/PassportuserImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/passportuser/PassportUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../passport-user/src/com/xworkz/passportapp/passportuser/PassportUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/Address/address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/Country/country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/Patient/patient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/PatientRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/State/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/Street/Street.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/area/Area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-address-system/src/com/xworkz/details/city/City.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-system/patient-system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-system/patient-system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-system/src/com/xworkz/patapp/HospitalRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-system/src/com/xworkz/patapp/HospitalRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-system/src/com/xworkz/patapp/hospital/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-system/src/com/xworkz/patapp/hospital/Hospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-system/src/com/xworkz/patapp/hospital/impl/HospitalImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-system/src/com/xworkz/patapp/hospital/impl/HospitalImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-system/src/com/xworkz/patapp/patient/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-system/src/com/xworkz/patapp/patient/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza/src/com/xworkz/pizza/pizzaapp/PizzaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza/src/com/xworkz/pizza/pizzaapp/PizzaApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza/src/com/xworkz/pizza/pizzaapp/PizzaRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pizza/src/com/xworkz/pizza/pizzaapp/PizzaRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/TravelRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/TravelRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/agency/TravelAgency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/agency/TravelAgency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/contract/RedbusContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/contract/RedbusContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/srs/SrsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/srs/SrsImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/vrl/VrlImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../redbus/src/com/xworkz/travelapp/vrl/VrlImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/BookMyShowRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/BookMyShowRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/amazon/Amazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/amazon/Amazon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/bookmyshow/BookMyShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/bookmyshow/BookMyShow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/cinepolis/Cinepolis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/cinepolis/Cinepolis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/paytm/Paytm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/paytm/Paytm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/pvr/Pvr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/pvr/Pvr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/theater/Theater.java" beforeDir="false" afterPath="$PROJECT_DIR$/../showapp/src/com/xworkz/showapp/theater/Theater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spontify/src/com/xworkz/spontify/SpontifyRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spontify/src/com/xworkz/spontify/SpontifyRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spontify/src/com/xworkz/spontify/musicapp/MusicApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spontify/src/com/xworkz/spontify/musicapp/MusicApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spontify/src/com/xworkz/spontify/spontifyapp/SpontifySong.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spontify/src/com/xworkz/spontify/spontifyapp/SpontifySong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spontify/src/com/xworkz/spontify/spontifyapp/impl/SpontifyImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spontify/src/com/xworkz/spontify/spontifyapp/impl/SpontifyImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../super-market/src/com/xworkz/supermarketapp/SupermarketRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../super-market/src/com/xworkz/supermarketapp/SupermarketRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../super-market/src/com/xworkz/supermarketapp/supermarket/Supermarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../super-market/src/com/xworkz/supermarketapp/supermarket/Supermarket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../super-market/src/com/xworkz/supermarketapp/worker/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../super-market/src/com/xworkz/supermarketapp/worker/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tea-company/src/com/xworkz/teaapp/chaiWala/ChaiRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tea-company/src/com/xworkz/teaapp/chaiWala/ChaiRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tea-company/src/com/xworkz/teaapp/chaiWala/ChaiWala.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tea-company/src/com/xworkz/teaapp/chaiWala/ChaiWala.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text-product-details/src/com/xworkz/productdetails/CustomerRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../text-product-details/src/com/xworkz/productdetails/CustomerRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text-product-details/src/com/xworkz/productdetails/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../text-product-details/src/com/xworkz/productdetails/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text-product-details/src/com/xworkz/productdetails/impl/CustomerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../text-product-details/src/com/xworkz/productdetails/impl/CustomerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text-product-details/src/com/xworkz/productdetails/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../text-product-details/src/com/xworkz/productdetails/product/Product.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Abhi-0502&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Abhi-0502/Java.git&quot;,
+    &quot;accountId&quot;: &quot;1fd883a2-e2f8-4528-a9fa-e1dff7fba22b&quot;
+  }
+}</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2p0pnciGDwjo92EAhImE20bVvFJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.Tomcat: servletmanage-resources.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Abhilasha H R\Desktop\java github\servletmanage-resources\src\main\java" />
+      <recent name="C:\Users\Abhilasha H R\Desktop\java github\servletmanage-resources\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="servletmanage-resources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="servletmanage-resources" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat: servletmanage-resources" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="" />
+      <option name="contextPath" value="/servletmanage-resources" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="port" value="8046" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.38" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-9.0.38-windows-x64/apache-tomcat-9.0.38" />
+          <option name="version" value="9.0.38.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c373e78-7ad4-40f6-b619-5bfee7ea6839" name="Changes" comment="" />
+      <created>1731913018051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731913018051</updated>
+    </task>
+    <servers />
+  </component>
+</project>
